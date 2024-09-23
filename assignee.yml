@@ -21,15 +21,14 @@ soukatsu:
     02_zaimu: 財務総括,冨高 麟太郎,rintaro29
     03_zaisei: 財政総括,冨高 麟太郎,rintaro29
   kensui:
-    01_zentai: 全体総括,長張 快,bearl27
+    01_zentai: 全体総括,新井 康平,bearl27
     02_project: プロジェクト総括,長張 快,bearl27
     03_LT: LT総括,長張 快,bearl27
   syogai:
     01_zentai: 全体総括,仮屋薗 純,zono0013
-    02_adokare: アドカレ総括,仮屋薗 純,zono0013
-    03_kyokukaigi: 局会議総括,仮屋薗 純,zono0013
-    04_twitter: Twitter総括,仮屋薗 純,zono0013
-    05_web: Web総括,仮屋薗 純,zono0013
+    02_kyokukaigi: 局会議総括,仮屋薗 純,zono0013
+    03_twitter: Twitter総括,仮屋薗 純,zono0013
+    04_web: Web総括,仮屋薗 純,zono0013
   system:
     01_zentai: 全体総括,棚橋 柊太,JavaLangRuntimeException
 
@@ -65,10 +64,11 @@ houshin:
     02_project: プロジェクト方針,長張 快,bearl27
     03_LT: LT方針,長張 快,bearl27
   syogai:
-    01_zentai: 全体方針,尾﨑 真央,maooz4426
-    02_kyokukaigi: 局会議方針,尾﨑 真央,maooz4426
-    03_twitter: Twitter方針,尾﨑 真央,maooz4426
-    04_web: Web方針,尾﨑 真央,maooz4426
+    01_zentai: 全体総括,仮屋薗 純,zono0013
+    02_kyokukaigi: 全体総括,仮屋薗 純,zono0013
+    03_kyokukaigi: 全体総括,仮屋薗 純,zono0013
+    04_twitter: 全体総括,仮屋薗 純,zono0013
+    05_web: 全体総括,仮屋薗 純,zono0013
   system:
     01_zentai: 全体方針,棚橋 柊太,JavaLangRuntimeException
   soumu:
