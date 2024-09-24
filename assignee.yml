@@ -11,19 +11,16 @@ soukatsu:
   zentai:
     01_zentai: 前期活動総括,尾﨑 真央,maooz4426
     02_unei: 運営総括,尾﨑 真央,maooz4426
-    03_project: プロジェクト活動総括,尾﨑 真央,maooz4426
+    03_shinkan: 新歓総括,尾﨑 真央,maooz4426
+    04_project: プロジェクト活動総括,尾﨑 真央,maooz4426
   1kai: 1回生総括,尾﨑 真央,maooz4426
   2kai: 2回生総括,尾﨑 真央,kajiwara727
   3kai: 3回生総括,尾﨑 真央,maooz4426
 
-  kaikei:
-    01_zentai: 全体総括,冨高 麟太郎,rintaro29
-    02_zaimu: 財務総括,冨高 麟太郎,rintaro29
-    03_zaisei: 財政総括,冨高 麟太郎,rintaro29
   kensui:
-    01_zentai: 全体総括,新井 康平,bearl27
-    02_project: プロジェクト総括,長張 快,bearl27
-    03_LT: LT総括,長張 快,bearl27
+    01_zentai: 全体総括,梶原 悠人,kajiwara727
+    02_project: プロジェクト総括,梶原 悠人,kajiwara727
+    03_LT: LT総括,梶原 悠人,kajiwara727
   syogai:
     01_zentai: 全体総括,仮屋薗 純,zono0013
     02_kyokukaigi: 局会議総括,仮屋薗 純,zono0013
@@ -44,16 +41,10 @@ houshin:
     01_zentai: 前期活動方針,尾﨑 真央,maooz4426
     02_unei: 運営方針,尾﨑 真央,maooz4426
     03_project: プロジェクト活動方針,尾﨑 真央,maooz4426
-    04_sinkan: 新歓方針,尾﨑 真央,maooz4426
-    05_kaishi: 会誌方針,尾﨑 真央,maooz4426
-    06_gakuensai: 学園祭方針,尾﨑 真央,maooz4426
-    07_ritumeihouse: 立命の家方針,尾﨑 真央,maooz4426
-    08_welcom: Welcomeゼミ方針,尾﨑 真央,maooz4426
 
-  2kai: 新2回生方針,尾﨑 真央,maooz4426
-  3kai: 新3回生方針,尾﨑 真央,maooz4426
 
-  4kai: 新4回生方針
+  1kai: 1回生方針,尾﨑 真央,maooz4426
+  2kai: 2回生方針,尾﨑 真央,maooz4426
 
   kaikei:
     01_zentai: 全体方針,尾﨑 真央,maooz4426
