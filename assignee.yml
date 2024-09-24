@@ -14,9 +14,13 @@ soukatsu:
     03_shinkan: 新歓総括,尾崎 真央,maooz4426
     04_project: プロジェクト活動総括,尾崎 真央,maooz4426
   1kai: 1回生総括,尾崎 真央,maooz4426
-  2kai: 2回生総括,尾崎 真央,kajiwara727
+  2kai: 2回生総括,尾崎 真央,maooz4426
   3kai: 3回生総括,尾崎 真央,maooz4426
 
+  kaikei:
+    01_zentai: 全体総括,尾崎 真央,maooz4426
+    02_zaimu: 財務総括,尾崎 真央,maooz4426
+    03_zaisei: 財政総括,尾崎 真央,maooz4426
   kensui:
     01_zentai: 全体総括,梶原 悠人,kajiwara727
     02_project: プロジェクト総括,梶原 悠人,kajiwara727
@@ -42,7 +46,6 @@ houshin:
     02_unei: 運営方針,尾崎 真央,maooz4426
     03_project: プロジェクト活動方針,尾崎 真央,maooz4426
 
-
   1kai: 1回生方針,尾崎 真央,maooz4426
   2kai: 2回生方針,尾崎 真央,maooz4426
   3kai: 3回生方針,尾崎 真央,maooz4426
@@ -58,9 +61,8 @@ houshin:
   syogai:
     01_zentai: 全体総括,仮屋薗 純,zono0013
     02_kyokukaigi: 全体総括,仮屋薗 純,zono0013
-    03_kyokukaigi: 全体総括,仮屋薗 純,zono0013
-    04_twitter: 全体総括,仮屋薗 純,zono0013
-    05_web: 全体総括,仮屋薗 純,zono0013
+    03_twitter: 全体総括,仮屋薗 純,zono0013
+    04_web: 全体総括,仮屋薗 純,zono0013
   system:
     01_zentai: 全体方針,棚橋 柊太,JavaLangRuntimeException
   soumu:
