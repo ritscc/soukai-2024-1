@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11e8551f-76b9-42db-8009-0b13ff5a7c05" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assignee.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hajimeni.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/hajimeni.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/1kai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/1kai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/2kai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/2kai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/3kai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/3kai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/syogai/01_zentai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/syogai/01_zentai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/syogai/02_kyokukaigi.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/syogai/02_kyokukaigi.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/syogai/03_twitter.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/syogai/03_twitter.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/houshin/syogai/04_web.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/houshin/syogai/04_web.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soukatsu/1kai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/soukatsu/1kai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soukatsu/2kai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/soukatsu/2kai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soukatsu/3kai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/soukatsu/3kai.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soukatsu/soumu/05_gyozi.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/soukatsu/soumu/05_gyozi.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soukatsu/soumu/06_bihin.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/soukatsu/soumu/06_bihin.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soukatsu/syogai/01_zentai.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/soukatsu/syogai/01_zentai.tex" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.0.darwin-arm64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mSNpuC7ZGg3Q9Yl23JSatjb2Go" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "develop",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/taramanjimacbookpro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-5df93f7ad4aa-df9ad98b711f-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-242.21829.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-GO-242.21829.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
